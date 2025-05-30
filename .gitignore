@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+[Dd]esktop.ini
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Macaulay2 output files
+*.o
+*.out
+output.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Backup files
+*.bak
+*.tmp
+*.temp
